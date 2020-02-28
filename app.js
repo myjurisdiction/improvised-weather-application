@@ -9,8 +9,8 @@
     const PORT = process.env.PORT || 7000;
 
     class Weather_APIs {
-        DARK_SKY = '373e5a0ec86d0283e6b028875ee66a2c';
-        MAP_BOX = 'pk.eyJ1IjoiYWJoaXNoZWsxMCIsImEiOiJjazc2bG5hOW8wY3dhM2RvMWZtMnUzZGg5In0.DsTkceR9rT-zs2wLmLmUpA';
+        DARK_SKY = 'YOUR API KEY';
+        MAP_BOX = 'YOUR API KEY';
 
         async location_trace(placeName) {
 
